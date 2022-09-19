@@ -8,3 +8,8 @@
 	url = https://github.com/tengmx/gcapc
 	shallow = true
 	registered = true
+[submodule "rnaseqcomp"]
+	path = rnaseqcomp
+	url = https://github.com/tengmx/rnaseqcomp
+	shallow = true
+	registered = true
