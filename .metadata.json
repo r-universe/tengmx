@@ -1,8 +1,8 @@
 [
   {
-    "package": "gcapc"
+    "package": "rnaseqcomp"
   },
   {
-    "package": "rnaseqcomp"
+    "package": "gcapc"
   }
 ]
